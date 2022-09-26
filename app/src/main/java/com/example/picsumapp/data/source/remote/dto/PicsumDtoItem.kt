@@ -1,4 +1,4 @@
-package com.example.picsumapp.source.remote.dto
+package com.example.picsumapp.data.source.remote.dto
 
 data class PicsumDtoItem(
     val author: String,
